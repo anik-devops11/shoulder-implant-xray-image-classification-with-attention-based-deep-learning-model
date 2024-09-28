@@ -22,9 +22,6 @@ This research addresses the critical task of classifying X-ray images depicting 
 
 <h3  align="center"><u>Model Architecture</u></h3> <br>
 
-<h3 align="center">Workflow</h3>
-
-
 ## Feedback
 
 If you have any feedback or queries, please reach me out at anikdasprivate@gmail.com

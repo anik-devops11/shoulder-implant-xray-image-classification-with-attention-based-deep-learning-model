@@ -22,6 +22,22 @@ This research addresses the critical task of classifying X-ray images depicting 
 
 <h3  align="center"><u>Model Architecture</u></h3> <br>
 
+### Conclusion
+
+<p style="text-align: justify;">This study investigated the feasibility of utilizing a deep learning approach for shoulder implant classification. The proposed method achieved promising results, demonstrating
+its potential for accurate shoulder implant classification. However, limitations related to
+the dataset size and diversity were acknowledged. The primary limitation was the lack of
+diversity in the implant manufacturer data. With only one manufacturer represented and a
+limited number of images (597), the model’s ability to generalize to unseen data could be
+compromised. Additionally, the limited data size can inflate performance metrics, potentially leading to overfitting.Future research should focus on addressing these limitations
+to improve the model’s robustness and generalizability. Expanding the dataset through
+collaboration with more shoulder implant manufacturers or combining datasets from other
+researchers is crucial. Exploring alternative feature extraction methods particularly Convolutional Neural Networks (CNNs), is also promising as CNNs are known to perform well
+with smaller datasets. Feature selection techniques can further enhance performance by
+focusing on the most informative features for classification.By addressing these limitations,
+we can strengthen the effectiveness and applicability of the proposed approach.
+ </p> <br>
+
 ## Feedback
 
 If you have any feedback or queries, please reach me out at anikdasprivate@gmail.com

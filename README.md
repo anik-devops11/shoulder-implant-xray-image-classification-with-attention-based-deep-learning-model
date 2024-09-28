@@ -11,7 +11,7 @@ This research addresses the critical task of classifying X-ray images depicting 
 
 ![Logo](https://github.com/anik-devops11/shoulder-implant-xray-image-classification-with-attention-based-deep-learning-model/blob/main/Diagram/work%20flow.png)
 
-<h3  align="center"> Workflow </h3> <br>
+<h3  align="center" style="text-decoration: underline; text-decoration-color: red;"> Workflow </h3> <br>
 
 ### Model Architecture
 
@@ -20,7 +20,7 @@ This research addresses the critical task of classifying X-ray images depicting 
 
 ![Logo](https://github.com/anik-devops11/shoulder-implant-xray-image-classification-with-attention-based-deep-learning-model/blob/main/Diagram/DenseNet%20Model%20Architecture%20with%20SE%20Module%20Final.png)
 
-<h3  align="center">Model Architecture </h3> <br>
+<h3  align="center" style="text-decoration: underline; text-decoration-color: red;">Model Architecture </h3> <br>
 
 ## Feedback
 

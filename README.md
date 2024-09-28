@@ -27,3 +27,21 @@ This is the overall working process of our work.Firstly,we collect our dataset f
 
 ![Logo](https://github.com/anik-devops11/shoulder-implant-xray-image-classification-with-attention-based-deep-learning-model/blob/main/Diagram/work%20flow.png)
 
+<h3  align="center"> Workflow </h3> <br>
+
+
+### Model Architecture
+
+This is our proposed model architecture select input image, at first we put Convolution layer for Extracting Features then 
+there are Max Pooling Layer which will extract Most Important feature from the input image. Then there comes multiple 
+block of Dense Block and transition layer. In Dense Layer there are batch normalization to reduce sensitivity of the 
+model and Convolution 3x3 layer. In the Transition layer there are 3x3 Max Pooling Layer ,Convolution layer and Batch 
+Normalization. Then we comes to important portion of the architecture which Squeeze and Excitation Module . This 
+module is introduced before the Dropout layer to Improve feature learning capabilities which increase the model 
+accuracy mainly. then after dropout layer there are Average pooling layer and a Fully Connected layer after all of these 
+we got our desire output.
+
+
+![Logo](https://github.com/anik-devops11/shoulder-implant-xray-image-classification-with-attention-based-deep-learning-model/blob/main/Diagram/DenseNet%20Model%20Architecture%20with%20SE%20Module%20Final.png)
+
+<h3  align="center">Model Architecture </h3> <br>
